@@ -1,2 +1,10 @@
 First day of using GitHub. 
 Lets'see how the push works.
+
+So,how it works ? 
+
+1.if you make changes in the file. And save it.
+2. Git status commands finds out there is a change in the file.
+3. git add chapter1.txt
+4.git comment -m "update with instruction".
+5.git push -u origin master
